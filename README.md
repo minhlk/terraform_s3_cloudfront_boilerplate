@@ -3,6 +3,10 @@
   <h3 align="center">Terraform boilerplate for S3 + CloudFront</h3>  
 </div>
 
+## Progress?
+- [x] Init infrastructure of Cloudfront + S3 Origin using Terraform
+- [ ] Github Next JS
+- [ ] Auto deploy with buddy
 
 <!-- GETTING STARTED -->
 ## Getting Started
